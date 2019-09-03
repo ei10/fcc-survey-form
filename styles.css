@@ -1,13 +1,4 @@
-header, footer {
-  background-color: #1ca018;
-}
-
-#image {
-  display: block;
-  max-width: 100%;
-  height: auto;
-}
-
-li {
-  list-style-type: none;
+#survey-form{
+  background-color: #32ee79;
+  border-radius: 6px;
 }
