@@ -2,4 +2,4 @@
 > Survey Form for FreeCodeCamp
 
 ## Preview?
-Click [here](https://ei10.gitlab.io/FCCSurveyForm/)
+Click [here](https://ei10.gitlab.io/fccsurveyform/)
